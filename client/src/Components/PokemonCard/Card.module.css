@@ -1,0 +1,75 @@
+
+
+.div{
+    display: inline-block;
+    border-style:ridge;
+    line-height: 10px;    
+    padding: 0px;
+    margin: 15px;
+    background: linear-gradient(35deg, rgb(63, 4, 4), rgb(230, 28, 28));
+    border-width: 8px;    
+    border-color: rgba(242, 240, 245, 0.37);
+    border-radius: 5rem;
+    box-shadow: 10px 8px 8px rgba(0, 0, 0, 0.479);
+
+}
+
+
+.name{
+    position: relative;
+    bottom: 30px;
+    margin-top: 2rem;
+    justify-content: center;
+    font-family: 'Press Start 2P', cursive;
+    text-decoration: none;
+    font-size: 1.5rem;
+    color: black;
+}
+
+.idStyle{
+    display: block;
+    margin-top: 0%;
+    padding-bottom: 1.2rem;
+    font-family: 'Press Start 2P', cursive;
+    text-decoration: none; 
+    color: rgba(0, 0, 0, 0);
+}
+
+.photto{
+    width: auto;
+    margin: -35px ;
+    transform: scale(.8);
+    
+    
+}
+.photto:hover{
+    -webkit-transform: scale(1.5);
+    transform: scale(1.20);
+    transition: all 0.2s ease-in-out;
+}
+
+.firstDiv{
+    background-color: white;
+    padding-top: 1rem;
+    border-top-left-radius: 4.9rem;
+    border-top-right-radius: 4.9rem;   
+}
+
+.thirdDiv{
+    background-color: white;
+    padding-bottom: 0.5rem;
+    border-bottom-left-radius: 4.9rem;
+    border-bottom-right-radius: 4.9rem;
+    text-shadow: 50%;
+    font-family: 'DM Sans', sans-serif;
+    font-size: 1.2rem;
+    color: black;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+}
+.forthDiv{
+    display: flex;
+    justify-content: center;
+}
+

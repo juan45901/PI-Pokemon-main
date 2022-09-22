@@ -1,0 +1,12 @@
+export const GET_POKEMONS = 'GET_POKEMONS'
+export const GET_BY_ORIGIN = 'GET_BY_ORIGIN'
+export const GET_BY_TYPE = 'GET_BY_TYPE'
+export const ORDER_BY_ATTACK = 'ORDER_BY_ATTACK'
+export const ORDER_BY_NAME = 'ORDER_BY_NAME'
+export const GET_BY_NAME = 'GET_BY_NAME'
+export const GET_BY_ID = 'GET_BY_ID'
+export const DELETE_POKEMON = 'DELETE_POKEMON'
+export const RESET_POKE_DETAIL = 'RESET_POKE_DETAIL'
+export const CREATE_POKEMON = 'CREATE_POKEMON'
+export const GET_ALL_TYPES = 'GET_ALL_TYPES'
+

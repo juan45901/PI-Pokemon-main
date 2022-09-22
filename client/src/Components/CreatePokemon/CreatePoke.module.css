@@ -1,0 +1,47 @@
+.bgg{
+    background-image: url(https://icdn.dtcn.com/image/digitaltrends_es/pokemon-joy.jpg); 
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+.title{
+    font-family: 'Press Start 2P', cursive;
+    font-size: .8rem;
+    color: black;
+    padding-top: .85rem;
+    padding-bottom: 1rem;
+}
+
+.forms{
+    display: flex;
+    flex-direction: column ;
+    justify-content: center;
+    align-items: center;
+    font-family: 'DM Sans', sans-serif;
+}
+
+.input1{
+    border-radius:  .3em;
+    font-size: x-large;
+    background-color: whitesmoke;    
+    color: rgb(0, 0, 0);  
+    font-family: 'DM Sans', sans-serif;
+    margin-bottom: 15px;
+    
+}
+
+.button1{
+    margin: .4rem;
+    font-size: x-large;
+    border-radius: .3em;
+    text-align: center;
+    color: rgb(0, 0, 0);  
+    font-family: 'DM Sans', sans-serif;
+    font-size: 1.5rem;
+}
+.button1:hover{
+    background-color: rgb(53, 52, 52, 0.493);
+    color: white;
+    cursor: pointer;
+    border: none;
+}

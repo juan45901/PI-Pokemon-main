@@ -1,0 +1,16 @@
+
+.bgimage{
+    background-image: url('https://www.videogamer.com/wp-content/uploads/Pokemon-Unite-main.png');
+    background-position: 100%;
+    background-size: 100%;
+    background-repeat: no-repeat;
+    height: 100%;
+    width: 100%;
+}
+
+.title{
+    height: auto;
+    width: 33%;
+    padding-top: 11rem;
+    padding-bottom: 27.65%;
+}

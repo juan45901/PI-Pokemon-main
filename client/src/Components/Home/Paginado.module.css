@@ -1,0 +1,28 @@
+@import url('https://fonts.googleapis.com/css2?family=Poppins:wght@100&family=Press+Start+2P&display=swap');
+
+
+.text{
+    list-style: none;
+    display: flex;
+    flex-direction: row;
+    font-family: 'Press Start 2P', cursive;
+    font-size: 1rem;
+    justify-content: center;
+}
+
+.page{
+    width:12px;
+    margin:5px;
+    padding:8px;
+    border: 0.13rem solid rgb(0, 0, 0);
+    border-radius: 15%;
+    background-color: whitesmoke;
+    cursor: pointer;
+}
+
+.page:hover{
+    background-color: rgba(53, 52, 52, 0.493);
+    color:white;
+    border: none;
+}
+
